@@ -7,11 +7,11 @@
   
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item href="#/AdministrarInventario/">Administrar Inventario</b-nav-item>
-          <b-nav-item href="#">Mantenedor</b-nav-item>
-          <b-nav-item href="#">Informes Web</b-nav-item>
-          <b-nav-item href="#">Importación Masiva</b-nav-item>
-          <b-nav-item href="#">Fallas</b-nav-item>
+          <b-nav-item href="/AdministrarInventario/">Administrar Inventario</b-nav-item>
+          <b-nav-item href="/Mantenedor">Mantenedor</b-nav-item>
+          <b-nav-item href="">Informes Web</b-nav-item>
+          <b-nav-item href="">Importación Masiva</b-nav-item>
+          <b-nav-item href="">Fallas</b-nav-item>
 
 
 
